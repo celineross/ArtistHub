@@ -58,17 +58,13 @@ Below are a few screenshots of the application.
 If you have any questions, you can find contact infomation on the GitHub profiles in the Author section.
 
 ## Contributors
-Michael WIllingham, Ryan Hatfield, Celine Ross and Pete Hernandez
+Michael WIllingham, Celine Ross, and Pete Hernandez
 
 ## Author
 
 * ### Michael Willingham:
   * **GitHub Username:** malex19889
   **GitHub Profile:** https://github.com/malex19889
-
-* ### Ryan Hatfield:
-  * **GitHub Username:** Ryan-Hatfield
-  **GitHub Profile:** https://github.com/Ryan-Hatfield
 
 * ### Celine Ross:
   * **GitHub Username:** celineross
